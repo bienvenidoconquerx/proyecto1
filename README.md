@@ -21,7 +21,7 @@ Este repositorio es un ejemplo de proyecto en equipo
    - Si tus cambios están listos, ve a la página principal de tu repositorio forked y haz clic en "Contribute" y posteriormente "Open pull request".
 
 6. **Describe tu pull request**  
-   Proporciona una descripción detallada de los cambios que has realizado. Incluye cualquier información relevante que pueda ayudar a entender mejor tus contribuciones y haz clic en "Create pull request" para enviar.
+   - Proporciona una descripción detallada de los cambios que has realizado. Incluye cualquier información relevante que pueda ayudar a entender mejor tus contribuciones y haz clic en "Create pull request" para enviar.
 
 7. **Espera la revisión**  
-   Uno de los mantenedores del proyecto revisará tu pull request y te enviará una respuesta.
+  - Uno de los mantenedores del proyecto revisará tu pull request y te enviará una respuesta.
