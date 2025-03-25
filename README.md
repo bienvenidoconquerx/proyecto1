@@ -56,9 +56,10 @@ Este repositorio es un ejemplo de proyecto en equipo
    - En Github: Si tus cambios están listos, ve a la página principal de tu repositorio forked y haz clic en "Contribute" y posteriormente "Open pull request".
    - En tu ordenador personal:
       ```bash
-      git merge upstream/main
-      # Si hay conflictos, resuélvelos manualmente.
+      git push -u origin main
+      # Y tus cambios en local ya se han subido a Github
       ```
+      Ya podemos hacer la pull request en Github haciendo haz clic en "Contribute" y posteriormente "Open pull request".
 
 6. **Describe tu pull request**  
    - En Github: Proporciona una descripción detallada de los cambios que has realizado. Incluye cualquier información relevante que pueda ayudar a entender mejor tus contribuciones y haz clic en "Create pull request" para enviar.
