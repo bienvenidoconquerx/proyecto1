@@ -48,8 +48,6 @@ Este repositorio es un ejemplo de proyecto en equipo
       Antes de subir tus cambios, sincroniza tu rama desde `upstream`:  
       ```bash
       git fetch upstream
-      git merge upstream/main
-      # Si hay conflictos, resuélvelos manualmente.
       ```
       
 
